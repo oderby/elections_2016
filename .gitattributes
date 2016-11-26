@@ -1,1 +1,5 @@
 PA/tl_2011_us_county/tl_2011_us_county.shp filter=lfs diff=lfs merge=lfs -text
+PA/20001107__pa__general__precinct__raw.csv filter=lfs diff=lfs merge=lfs -text
+PA/20081104__pa__general__precinct__raw.csv filter=lfs diff=lfs merge=lfs -text
+PA/20121106__pa__general__precinct__raw.csv filter=lfs diff=lfs merge=lfs -text
+PA/20041102__pa__general__precinct__raw.csv filter=lfs diff=lfs merge=lfs -text
