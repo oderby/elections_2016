@@ -1,0 +1,1 @@
+-e git+https://github.com/oderby/cmap2d.git#egg=cmap2d
