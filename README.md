@@ -30,7 +30,7 @@ data was collected from the following sources:
   State:Pennsylvania > Select "All Counties within Pennsylvania")
 
 I automated the processing of the 2000-2016 election results in
-the [process_pa_results.ipynb](/blob/master/process_pa_results.ipynb)
+the [process_pa_results.ipynb](process_pa_results.ipynb)
 notebook. The 1996 results and all voter registration statistics came as tables
 that I just copied and renamed the headers.
 
@@ -48,7 +48,7 @@ this data in a central location:
 
 # Analysis
 
-All analysis is contained in the [plot_pa.ipynb](/blob/master/plot_pa.ipynb)
+All analysis is contained in the [plot_pa.ipynb](plot_pa.ipynb)
 notebook.
 
 # Further Resources
