@@ -17,7 +17,17 @@ data was collected from the following sources:
 * 1996 PA general election
   results:
   [The Wilkes University Election Statistics Project](http://staffweb.wilkes.edu/harold.cox/pres/PaPres1996.html)
-* 2000-2016 PA voter registration statistics: [PA DoS Archive](http://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/Voter-Registration-Statistics-Archives.aspx)
+* 2000-2016 PA voter registration
+  statistics:
+  [PA DoS Archive](http://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/Voter-Registration-Statistics-Archives.aspx)
+* 1996-2008 PA Population Estimates by
+  County:
+  [PA Vital Statistics Archive](http://www.statistics.health.pa.gov/HealthStatistics/VitalStatistics/PAVitalStatistics/Pages/PAVitalStatistics.aspx#.WOf1N3XytaM)
+* 2012 & 2016 PA Population Estimates by
+  County:
+  [US Census PEPANNRES: Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2016_PEPANNRES&prodType=table) (Click
+  "Add/Remove Geographies" > Select "Geographic Type":"County",
+  State:Pennsylvania > Select "All Counties within Pennsylvania")
 
 I automated the processing of the 2000-2016 election results in
 the [process_pa_results.ipynb](/blob/master/process_pa_results.ipynb)
